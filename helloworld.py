@@ -1,3 +1,8 @@
+'''
+ A mixed example based on the 'getting started' example at http://bridgesuncc.github.io/bridges_setup_python_pip.html
+ and the single linked list one at http://bridgesuncc.github.io/tutorials/SinglyLinkedList.html 
+'''
+
 import os
 from dotenv import load_dotenv
 

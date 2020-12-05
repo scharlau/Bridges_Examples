@@ -1,4 +1,4 @@
-# Bridges_Examples
+# Bridges Examples For Python Data Structure Visualisations
 A collection of python examples using the Bridges library http://bridgesuncc.github.io/index.html for visualising data structures. 
 
 These examples use the dotenv library https://pypi.org/project/python-dotenv/ to keep username and API key out of the examples. This adds a .env file with the Bridges username and API KEY for use in each file.
@@ -11,8 +11,9 @@ Install and use as follows:
 
         python3 -m pip install bridges
 
-You're now ready to get started using Bridges.
+You're now ready to get started using Bridges. You'll find more notes in each of the files.
 
-Hello world is the most basic visualisation of a linked list.
-Gutenberg pulls open data for display in the console and as a tree visualisation.
+* Hello world is the most basic visualisation of a linked list.
+* Gutenberg pulls open data for display in the console and as a tree visualisation.
+* Minimal Game provides an example game showing interaction with the screen and keyboard
 
